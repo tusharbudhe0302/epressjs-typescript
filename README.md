@@ -1,0 +1,1 @@
+Open Teminal and run  `tsc-w`
